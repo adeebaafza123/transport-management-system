@@ -52,12 +52,6 @@ Transport_Management_System/
 
 ---
 
-# 📸 Project Preview
-
-Add project screenshots here.
-
----
-
 # 👩‍💻 Author
 
 Adeeba Afzal
