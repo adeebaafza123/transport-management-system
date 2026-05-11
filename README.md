@@ -1,10 +1,10 @@
-# 🚍 Transport Management System
+ 🚍 Transport Management System
 
 A web-based transport management system developed using HTML, CSS, and JavaScript.
 
 ---
 
-# 📌 Features
+ 📌 Features
 
 - User-friendly interface
 - Transport management functionality
@@ -14,7 +14,7 @@ A web-based transport management system developed using HTML, CSS, and JavaScrip
 
 ---
 
-# 🛠 Technologies Used
+ 🛠 Technologies Used
 
 - HTML
 - CSS
@@ -22,7 +22,7 @@ A web-based transport management system developed using HTML, CSS, and JavaScrip
 
 ---
 
-# 📂 Project Structure
+ 📂 Project Structure
 
 ```bash
 Transport_Management_System/
@@ -33,9 +33,8 @@ Transport_Management_System/
 └── assets/
 ```
 
----
 
-# 🚀 How to Run
+🚀 How to Run
 
 1. Download or clone the repository
 2. Open the project folder
@@ -43,7 +42,7 @@ Transport_Management_System/
 
 ---
 
-# 🎯 Project Objectives
+ 🎯 Project Objectives
 
 - Learn frontend web development
 - Practice JavaScript functionality
@@ -52,7 +51,7 @@ Transport_Management_System/
 
 ---
 
-## Contributors
+Contributors
 
 - Adeeba Afzal
 - Hifza Bibi
