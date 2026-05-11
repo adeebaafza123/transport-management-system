@@ -52,8 +52,7 @@ Transport_Management_System/
 
 ---
 
-# 👩‍💻 Author
+## Contributors
 
-Adeeba Afzal
-
-BSCS Student | Web Development Learner
+- Adeeba Afzal
+- Hifza Bibi
