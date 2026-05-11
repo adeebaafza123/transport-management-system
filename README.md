@@ -12,7 +12,7 @@ A web-based transport management system developed using HTML, CSS, and JavaScrip
 - Interactive frontend components
 - Simple navigation system
 
----
+
 
  🛠 Technologies Used
 
@@ -48,8 +48,6 @@ Transport_Management_System/
 - Practice JavaScript functionality
 - Build responsive web interfaces
 - Improve UI/UX design skills
-
----
 
 Contributors
 
